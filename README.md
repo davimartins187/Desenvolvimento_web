@@ -16,11 +16,13 @@ MongoDB · Docker · Git · API REST · Prisma ORM
 - **react-nextjs/** → componentes, hooks e projetos
 - **nodejs/** → servidor, APIs e middlewares
 - **banco-de-dados/** → MySQL e MongoDB
+- **Java + Java POO
+- Spring Boo
 - **docker/** → containers e ambientes
 - **projeto-final/** → Spotify Backoffice completo
 
 ## 🎯 Objetivo
-Tornar-me desenvolvedor full stack JavaScript,
+Tornar-me desenvolvedor full stack java,
 dominando frontend e backend com boas práticas
 e projetos reais para portfólio.
 
