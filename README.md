@@ -29,9 +29,6 @@ Docker · Git
 * `typescript/` → Tipagem, interfaces e narrowing
 * `react-nextjs/` → Componentes, hooks e projetos
 * `nodejs/` → Servidor, APIs REST e middlewares
-* `java/` → Fundamentos da linguagem Java
-* `java-poo/` → Programação Orientada a Objetos (POO)
-* `spring-boot/` → APIs REST com Spring Boot
 * `banco-de-dados/` → MySQL e MongoDB
 * `docker/` → Containers e ambientes
 * `projeto-final/` → Spotify Backoffice completo
